@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="potfolioPrimaryBackground">#FFBB33</color>
+    <color name="portfolioSecondaryBackground">#FF8800</color>
+    <color name="portfolioAccent">#FF4444</color>
+    <color name="portfolioWindowBackground">@color/md_grey_300</color>
+    <color name="portfolioPrimaryText">@color/md_black_1000</color>
+    <color name="portfolioSecondaryText">@color/md_white_1000</color>\
+    <color name="portfolioBorderColor">@color/md_grey_500</color>
+    <color name="spinnerNotSet">@color/md_orange_300</color>
+
+</resources>

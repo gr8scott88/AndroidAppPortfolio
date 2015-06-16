@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android App Portfolio</string>
+
+    <string name="MyNanodegreeApps">My Nano Degree Apps!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SpotifyStreameer">Spotify Streamer</string>
+    <string name="ScoresApp">Scores App</string>
+    <string name="LibraryApp">Library App</string>
+    <string name="BuildItBigger">Build It Bigger</string>
+    <string name="XYZReader">XYZ Reader</string>
+    <string name="Capstone">Capstone: TBD</string>
+
+
+
+</resources>
